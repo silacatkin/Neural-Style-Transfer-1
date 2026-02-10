@@ -1,4 +1,7 @@
 # Neural Style Transfer ile Sanatsal Dönüşüm 🎨
+Proje Dosyam (How to run)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/silacatkin/Neural-Style-Transfer-1/blob/main/neuralstyletransfer.ipynb)
+
 
 Bu projede, derin öğrenme (VGG-19) kullanarak kişisel bir fotoğrafı Van Gogh tarzına dönüştürdüm.
 
@@ -14,4 +17,11 @@ Bu proje sırasında derin öğrenmenin temel kavramlarını (Loss functions, Gr
 ## Sonuçlar
 | Orijinal Fotoğraf | Van Gogh Tarzı | ![Orijinal](van_gogh_tablosu.jpg) 
 |---|---|
-| ![İçerik](benimki.png) | ![Sonuç](sonuc.png) | !
+
+
+| ![İçerik](benimki.png) 
+
+
+| ![Sonuç](sonuc.png) | 
+
+
